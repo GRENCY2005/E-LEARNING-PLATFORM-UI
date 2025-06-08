@@ -17,9 +17,9 @@ The goal of this project is to design the front-end of an E-Learning Platform us
 
 ### Course Listing:
 The home page should show a list of available courses in a grid layout. Each course card must include:
-# A course title
-# An image thumbnail
-# A short description
+- A course title
+- An image thumbnail
+- A short description
 
 ### Progress Tracking:
 Users should see how much of the course they have completed. This can be shown using a progress bar. When users watch videos or move through lessons, their progress should update.
