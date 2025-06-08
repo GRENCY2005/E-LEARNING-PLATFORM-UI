@@ -29,19 +29,19 @@ Each course should include learning videos. Use <iframe> (e.g., from YouTube) or
 
 ### Multi-Page Navigation:
 The platform should include multiple pages such as:
-Home (Course listing)
-Course Details (with video)
+- Home (Course listing)
+- Course Details (with video)
 
 ### Technologies Used:
-HTML for content structure
-CSS for styling and layout
-JavaScript for dynamic interactions like updating progress
+- HTML for content structure
+- CSS for styling and layout
+- JavaScript for dynamic interactions like updating progress
 
 ### Deliverable:
 A styled, interactive, and multi-page e-learning platform UI that:
-Shows a course list
-Embeds videos
-shows course progress
+- Shows a course list
+- Embeds videos
+- shows course progress
 
 ### OUTPUT
 
