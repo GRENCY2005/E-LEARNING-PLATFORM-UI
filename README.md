@@ -25,7 +25,8 @@ The home page should show a list of available courses in a grid layout. Each cou
 Users should see how much of the course they have completed. This can be shown using a progress bar. When users watch videos or move through lessons, their progress should update.
 
 ### Video Embedding:
-Each course should include learning videos. Use <iframe> (e.g., from YouTube) or HTML5 <video> tag to embed videos. The video player must include controls like play and pause.
+Each course should include learning videos. Use <iframe> (e.g., from YouTube) or 
+HTML5 <video> tag to embed videos. The video player must include controls like play and pause.
 
 ### Multi-Page Navigation:
 The platform should include multiple pages such as:
